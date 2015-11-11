@@ -1,3 +1,12 @@
+## Quickstart
+
+```
+git clone https://github.com/lukewendling/angular-seed
+cp -r angular-seed my-project
+cd my-project
+rm -rf .git
+```
+
 # angular-seed — the seed for AngularJS apps
 
 This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app.
